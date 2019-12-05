@@ -3,21 +3,21 @@ component of image preview
 
 ####Install
 install from github:
-`
+```
 npm install
-`
+```
 imstall from npm:
-`
+```
 npm install react-x-imgpreview
-`
+```
 ####Usage
-`
+```
 import { ImgPreview } from 'react-x-imgpreview'
 
 const url = ''
 
 ReactDom.render(<ImgPreview url={url}></ImgPreview>, Node)
-`
+```
 
 
 ####API使用文档
