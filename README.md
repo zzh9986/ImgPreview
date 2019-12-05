@@ -4,7 +4,7 @@ component of image preview
 #### Install
 install from github:
 ```
-npm install
+npm install https://github.com/zzh9986/ImgPreview.git
 ```
 imstall from npm:
 ```
