@@ -1,7 +1,7 @@
 ## ImgPreview
 component of image preview
 
-####Install
+#### Install
 install from github:
 ```
 npm install
@@ -10,7 +10,7 @@ imstall from npm:
 ```
 npm install react-x-imgpreview
 ```
-####Usage
+#### Usage
 ```
 import { ImgPreview } from 'react-x-imgpreview'
 
@@ -20,7 +20,7 @@ ReactDom.render(<ImgPreview url={url}></ImgPreview>, Node)
 ```
 
 
-####API使用文档
+#### API使用文档
 参数 | 类型 | 说明 | 默认值 |  
 -|-|-
 url | string | 需要展示图片的途径 | -|
