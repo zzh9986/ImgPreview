@@ -32,5 +32,4 @@ urlList | Array | 需要展示图片的路径数组 | [] |
 curIndex | number | 预览时显示索引为curIndex的图片 | 0 |
 defaultIndex | number | 小图时显示索引为defaultIndex的图片 | 0 |
 
-
-###
+ 
