@@ -22,7 +22,7 @@ ReactDom.render(<ImgPreview url={url}></ImgPreview>, Node)
 
 #### API使用文档
 参数 | 类型 | 说明 | 默认值 |  
--|-|-
+-|-|- | - |
 url | string | 需要展示图片的途径 | -|
 imgwidth | number | 小图预览时图片的宽度 | - |
 imgheight | number | 小图预览时图片的高度 | - |
